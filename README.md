@@ -1,7 +1,7 @@
 # STM32_VS1053
 STM32 VS1053 Driver
 
-Typical usage:
+Typical driver configuration:
 
 main{
 
