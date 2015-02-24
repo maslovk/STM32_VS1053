@@ -10,6 +10,6 @@ main{
 	
 	VS1053_sci_write_DMA(&vs1053,SCI_CLOCKF,0x8800);
 	
-  VS1053_sci_setattenuation(&vs1053,60,60);//Range-0..254 0-Full volume 254-Silence
+  	VS1053_sci_setattenuation(&vs1053,60,60);//Range-0..254 0-Full volume 254-Silence
   
 }
