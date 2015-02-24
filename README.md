@@ -4,7 +4,7 @@ STM32 VS1053 Driver
 Typical usage:
 
 main{
-//Set up VS1053
+
 
 	VS1053_configure(&vs1053,&hspi1,GPIOA,GPIO_PIN_1,GPIOA,GPIO_PIN_3,GPIOA,GPIO_PIN_4,GPIOA,GPIO_PIN_2,1000);
 	
