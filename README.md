@@ -3,6 +3,9 @@ STM32 VS1053 Driver
 
 Typical driver configuration:
 
+	#include "VS1053.h"
+	VS1053_InitTypeDef vs1053;
+
 main{
 
 
